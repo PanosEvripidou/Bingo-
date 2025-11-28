@@ -1,2 +1,2 @@
-# Bingo-
+# Bingo
 A game of Bingo!
